@@ -12,7 +12,6 @@ seb:
   beds: 1
   property_type: Apartment
   room_type: Entire home/apt
-
 anne:
   image: anne.jpg
   name: Anne's home
@@ -27,8 +26,6 @@ anne:
   beds: 1
   property_type: Apartment
   room_type: Entire home/apt
-
-
 romain:
   image: romain.jpg
   name: Romain's home

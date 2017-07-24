@@ -90,5 +90,5 @@ activate :deploy do |deploy|
   # deploy.commit_message = 'custom-message' # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
 end
 ["anne", "seb", "romain"].each do |member|
-  proxy "/flats/#{member}.html", "/flats/show.html", :locals => { :owner => member }
+  proxy "/flats/#{member}.html", "/flats/show.html", :locals => { :owner => member }, :ignore => true
 end
