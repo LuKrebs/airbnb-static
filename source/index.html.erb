@@ -56,7 +56,8 @@ title: Le Wagon Middleman boilerplate
         <div class="card-body" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/<%= infos.image_city %>');">
           <img src="images/<%= infos.image %>" alt="" class="card-user avatar avatar-large">
           <span class="card-category"><%= infos.city %></span>
-          <a href="/flats/<%= flat %>.html" style="cursor: pointer" class="card-link"></a>
+          <!-- <a href="/flats/<%= flat %>.html" style="cursor: pointer" class="card-link"></a> -->
+          <%= link_to "", "/flats/#{flat}.html", class: "card-link" %>
           <div class="card-description">
             <h2><%= infos.name %></h2>
             <p><%= infos.description %></p>
