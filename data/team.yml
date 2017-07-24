@@ -1,0 +1,11 @@
+seb:
+  image: seb.jpg
+  name: Sebastian
+
+anne:
+  image: anne.jpg
+  name: Anne
+
+romain:
+  image: romain.jpg
+  name: Romain

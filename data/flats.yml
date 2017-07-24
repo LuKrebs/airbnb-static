@@ -1,0 +1,46 @@
+seb:
+  image: seb.jpg
+  name: Sebastian's home
+  city: Paris, France
+  description: Charming room in Montmartre
+  image_city: card-paris.jpeg
+  full_description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bath: 1
+  bed_type: Real bed
+  bedrooms: 1
+  beds: 1
+  property_type: Apartment
+  room_type: Entire home/apt
+
+anne:
+  image: anne.jpg
+  name: Anne's home
+  city: Brussels, Belgium
+  description: Charming room in Montmartre
+  image_city: card-brussels.jpeg
+  full_description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bath: 1
+  bed_type: Real bed
+  bedrooms: 1
+  beds: 1
+  property_type: Apartment
+  room_type: Entire home/apt
+
+
+romain:
+  image: romain.jpg
+  name: Romain's home
+  city: London, UK
+  description: Nice flat in Piccadilly
+  image_city: card-london.jpeg
+  full_description: This one bedroom studio lodges 2 people (there's 1 double bed) it is located in the city center, in a calm traditional residential area near city´s main Avenue - 3 minutes walk from Sacré Coeur.
+  accomodates: 2
+  bath: 1
+  bed_type: Real bed
+  bedrooms: 1
+  beds: 1
+  property_type: Apartment
+  room_type: Entire home/apt
+
